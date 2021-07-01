@@ -1,0 +1,134 @@
+#EXTM3U
+#EXTINF:-1, T Sports
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+http://175.41.46.16:8081/hls/4.m3u8
+http://cdn.ihub.live:8080/j-TSports/tracks-v1a1/mono.m3u8
+http://212.102.60.40:2200/R-EX/T_SPORTS_HD-in/tracks-v1a1/mono.m3u8
+http://103.102.136.106:8080/cmcltv/tsports.m3u8
+http://10.16.100.207:8082/sports/sportst.m3u8
+http://103.107.160.20:8081/amrbd/colorsbangla/chunks.m3u8
+http://172.16.50.22/live/sambd1001/index.m3u8
+http://172.17.50.112/live/antbd1002/index.m3u8
+#EXTINF:-1, T Sports sd
+http://209.126.120.153/hls/tsports.m3u8
+http://175.41.46.16:8081/hls/11.m3u8
+http://43.251.86.6:8080/hls/channel_1.m3u8
+#EXTINF:-1, G TV
+http://113.212.111.246:8080/hls/col12.m3u8
+http://103.107.160.20:8081/amrbd/gazihd/chunks.m3u8
+#EXTINF:-1,Sony Six
+http://103.81.104.118/hls/stream10.m3u8
+http://172.17.50.112/live/antbd1001/index.m3u8
+#EXTINF:-1, Sony Ten 1
+http://103.81.104.118/hls/stream40.m3u8
+http://172.17.50.112/live/antbd1005/index.m3u8
+#EXTINF:-1, Sony Ten 3
+http://172.17.50.112/live/antbd1003/index.m3u8
+#EXTINF:-1,Star Sports 1
+http://103.81.104.118/hls/stream12.m3u8
+http://103.81.104.118/hls/stream15.m3u8
+http://172.17.50.112/live/antbd1006/index.m3u8
+#EXTINF:-1,Star Sports select 2
+http://103.81.104.118/hls/stream16.m3u8
+#EXTINF:-1,Sony ten 2
+http://103.81.104.118/hls/stream34.m3u8
+http://103.81.104.118/hls/stream39.m3u8
+http://175.41.46.16:8081/hls/7.m3u8
+#EXTINF:0,ptv sports
+http://103.81.104.118/hls/stream11.m3u8
+#EXTINF:-1,T sports bu
+http://otv.ftpbd.net/streams/108/index.m3u8
+#EXTINF:-1,Star Sports 1 bu
+http://otv.ftpbd.net/streams/104/index.m3u8
+#EXTINF:-1, Star sports 2 bu
+http://otv.ftpbd.net/streams/116/index.m3u8
+#EXTINF:-1,Star sports select 1 bu
+http://otv.ftpbd.net/streams/113/index.m3u8
+#EXTINF:-1,star sports select 2 bu
+http://otv.ftpbd.net/streams/114/index.m3u8
+#EXTINF:-1,sony six bu
+http://otv.ftpbd.net/streams/106/index.m3u8
+#EXTINF:-1,Sony ten 2 bu
+http://otv.ftpbd.net/streams/112/index.m3u8
+#EXTINF:-1,T Sports r
+http://45.127.244.7:8080/hls/channel2.m3u8
+#EXTINF:-1,T Sports bu
+http://113.212.111.246:8080/hls/col2.m3u8
+#EXTINF:1,Sony Ten 1
+http://103.205.133.19/hls/ten1.m3u8
+#EXTINF:-1,SONY TEN 2
+http://103.205.133.19/hls/ten2.m3u8
+#EXTINF:1,SONY TEN 3
+http://103.205.133.19/hls/ten3.m3u8
+#EXTINF:0,Channel 24
+http://103.205.133.19/hls/channel24.m3u8
+http://103.81.104.118/hls/stream22.m3u8
+#EXTINF:0,JAMUNA TV
+http://103.205.133.19/hls/jamunatv.m3u8
+#EXTINF:0,News 24
+http://103.205.133.19/hls/news24.m3u8
+#EXTINF:0,Shomoy TV
+http://103.205.133.19/hls/somoy.m3u8
+http://103.81.104.118/hls/stream21.m3u8
+#EXTINF:0,ATN News
+http://103.205.133.19/hls/atnnews.m3u8
+#EXTINF:0,DBC News
+http://103.205.133.19/hls/dbcnews.m3u8
+#EXTINF:0,ATN Bangla
+http://103.205.133.19/hls/atnbangla.m3u8
+http://103.81.104.118/hls/stream17.m3u8
+#EXTINF:0,Masranga
+http://103.81.104.118/hls/stream20.m3u8
+#EXTINF:0,Banglavision
+http://103.205.133.19/hls/banglavision.m3u8
+#EXTINF:0,Bangla TV
+http://103.205.133.19/hls/banglatv.m3u8
+#EXTINF:0,Deepto TV
+http://103.205.133.19/hls/deeptotv.m3u8
+#EXTINF:0,Ekushey TV
+http://103.205.133.19/hls/ekushey.m3u8
+#EXTINF:0,Channel i
+http://103.81.104.118/hls/stream18.m3u8
+#EXTINF:0,Gaan Bangla
+http://103.205.133.19/hls/gaanbangla.m3u8
+#EXTINF:0,MOHONA TV
+http://103.205.133.19/hls/mohonatv.m3u8
+#EXTINF:0,MY TV
+http://103.205.133.19/hls/mytv.m3u8
+#EXTINF:0,Nagorik TV
+http://103.205.133.19/hls/nagorik.m3u8
+http://103.81.104.118/hls/stream24.m3u8
+#EXTINF:0,NTV
+http://103.205.133.19/hls/ntv.m3u8
+#EXTINF:0,RTV
+http://103.205.133.19/hls/rtv.m3u8
+#EXTINF:0,SATV
+http://103.205.133.19/hls/satv.m3u8
+#EXTINF:0,Ruposhi Bangla
+http://103.205.133.19/hls/ruposhibangla.m3u8
+#EXTINF:0,Sony Aath
+http://103.205.133.19/hls/sony8.m3u8
+#EXTINF:0,Bangla Time
+http://103.205.133.19/hls/banglatime.m3u8
+#EXTINF:0,Zee Cinema
+http://103.205.133.19/hls/zeecinema.m3u8
+#EXTINF:0,& TV
+http://103.205.133.19/hls/andtv.m3u8
+#EXTINF:0,& Pictures
+http://103.205.133.19/hls/andpicture.m3u8
+http://103.81.104.118/hls/stream19.m3u8
+http://103.81.104.118/hls/stream7.m3u8
+http://103.81.104.118/hls/stream14.m3u8
+http://103.81.104.118/hls/stream29.m3u8
+http://103.81.104.118/hls/stream30.m3u8
+http://103.81.104.118/hls/stream27.m3u8
+http://103.81.104.118/hls/stream31.m3u8
+http://103.81.104.118/hls/stream28.m3u8
+http://103.81.104.118/hls/stream5.m3u8
+http://103.81.104.118/hls/stream15.m3u8
+http://103.81.104.118/hls/stream12.m3u8
+http://103.81.104.118/hls/stream11.m3u8
+http://103.81.104.118/hls/stream1.m3u8
+http://103.81.104.118/hls/stream16.m3u8
+http://103.81.104.118/hls/stream23.m3u8
+http://103.81.104.118/hls/stream32.m3u8
