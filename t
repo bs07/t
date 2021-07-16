@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:- T Sports HD
-http://tv.aliflailabd.com:8989/tsports/index.m3u8
 #EXTINF:-1, T Sports
+http://tv.aliflailabd.com:8989/tsports/index.m3u8
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 http://175.41.46.16:8081/hls/4.m3u8
 http://cdn.ihub.live:8080/j-TSports/tracks-v1a1/mono.m3u8
