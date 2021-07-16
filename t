@@ -258,3 +258,7 @@ http://tv.aliflailabd.com:8989/bangla-tv/index.m3u8
 http://tv.aliflailabd.com:8989/atnislamictv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AliflailaBD",ATN News
 http://tv.aliflailabd.com:8989/atn-news/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJMc4VQ.png" group-title="BDIX", Macca 
+http://tv.pmcon.net/hls/stream33.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AL Dawah TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dawah-eu.stream/chunks.m3u8
