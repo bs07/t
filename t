@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1, T Sports
+http://185.180.15.13:2200/R-EX/T_SPORTS_HD-in/tracks-v1a1/mono.m3u8?token=
+http://103.157.237.18:8000/play/630
 http://tv.aliflailabd.com:8989/tsports/index.m3u8
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 http://175.41.46.16:8081/hls/4.m3u8
@@ -15,6 +17,7 @@ http://209.126.120.153/hls/tsports.m3u8
 http://175.41.46.16:8081/hls/11.m3u8
 http://43.251.86.6:8080/hls/channel_1.m3u8
 #EXTINF:-1, G TV
+http://212.224.98.207:2200/EX/Free_Sports_SD-uk/tracks-v1a1/mono.m3u8?token=
 http://113.212.111.246:8080/hls/col12.m3u8
 http://103.107.160.20:8081/amrbd/gazihd/chunks.m3u8
 #EXTINF:-1,Sony Six
