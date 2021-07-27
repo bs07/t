@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1, T Sports
-http://stream.dhakaflix.com:8081/R-EX/T_SPORTS_HD-in/chunks.m3u8?nimblesessionid=
-http://185.180.15.13:2200/R-EX/T_SPORTS_HD-in/tracks-v1a1/mono.m3u8?token=
 http://103.157.237.18:8000/play/630
 http://tv.aliflailabd.com:8989/tsports/index.m3u8
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
