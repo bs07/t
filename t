@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1, T Sports
+http://103.81.104.118/hls/t-sports.m3u8
 http://stream.dhakaflix.com:8081/thunderbd/gtv/chunks.m3u8?nimblesessionid=
 http://103.157.237.18:8000/play/630
 http://tv.aliflailabd.com:8989/tsports/index.m3u8
