@@ -2,6 +2,8 @@
 #EXTINF:-1, T Sports
 http://stream.dhakaflix.com:8081/live/mystream/main/mystream/chunks.m3u8
 http://113.212.111.246:8080/hls/col2.m3u8
+#EXTINF:-1, Willow 
+http://stream.dhakaflix.com:8081/test-513d4c/willow/chunks.m3u8
 #EXTINF:-1, Sports
 http://stream.dhakaflix.com:8081/live/mystream/chunks.m3u8
 #EXTINF:-1, Bein
@@ -20,7 +22,7 @@ http://stream.dhakaflix.com:8081/live/sonyten1/chunks.m3u8
 #EXTINF:-1, ten
 http://stream.dhakaflix.com:8081/live/sonyten2/chunks.m3u8
 #EXTINF:-1, Gtv
-http://stream.dhakaflix.com:8081/EX/Free_Sports_SD-uk/chunks.m3u8
+http://stream.dhakaflix.com:8081/live/GTV-4K/chunks.m3u8
 #EXTINF:-1, Masranga
 http://stream.dhakaflix.com:8081/live/maasranga.m3u8/chunks.m3u8
 #EXTINF:-1, Channel 24
