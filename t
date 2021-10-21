@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, T Sports
-http://stream.dhakaflix.com:8081/live/nk-tsports/chunks.m3u8
+http://stream.dhakaflix.com:8081/live/mystream/main/mystream/chunks.m3u8
 http://113.212.111.246:8080/hls/col2.m3u8
 #EXTINF:-1, Sports
 http://stream.dhakaflix.com:8081/live/mystream/chunks.m3u8
