@@ -4,8 +4,9 @@ http://stream.dhakaflix.com:8081/live/mystream/main/mystream/chunks.m3u8
 http://113.212.111.246:8080/hls/col12.m3u8
 http://113.212.111.246:8080/hls/col2.m3u8
 http://stream.dhakaflix.com:8081/EX/Free_Sports_SD-uk/chunks.m3u8
-https://live.sonyplex.com/sonyplex/T-SPORTS.stream/index.m3u8
 http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
+#EXTINF:-1, Sky sports
+http://172.16.50.195/SKYSPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Willow 
 http://stream.dhakaflix.com:8081/test-513d4c/willow/chunks.m3u8
 #EXTINF:-1, Sports
