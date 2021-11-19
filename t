@@ -21,3 +21,11 @@ http://172.16.50.195/bensports2/index.m3u8
 http://172.16.50.195/bensports4/index.m3u8
 http://172.16.50.195/bensportsfr/index.m3u8
 http://172.16.50.195/espn/index.m3u8
+#EXTINF:-1 group-title="TTV-SPORTS" tvg-logo="",GaziTV
+http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
+#EXTINF:-1 group-title="TTV-SPORTS" tvg-logo="",T-Sports
+http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TTV-SPORTS", Sony Six HD
+https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TTV-SPORTS",A Sports
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
