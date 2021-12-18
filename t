@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1, T Sports
 http://172.16.50.195/T-SPORTS/tracks-v1a1/mono.m3u8
+http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 http://stream.dhakaflix.com:8081/live/mystream/main/mystream/chunks.m3u8
 http://113.212.111.246:8080/hls/col12.m3u8
 http://113.212.111.246:8080/hls/col2.m3u8
