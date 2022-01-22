@@ -2,6 +2,8 @@
 #EXTINF:-1, T Sports
 http://103.159.4.38:5868/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
+http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
+http://10.16.100.245/hindi/t$sports_1stOp.m3u8
 http://103.70.140.27:8080/hls/gtv.m3u8
 http://103.70.140.27:8080/hls/tsports.m3u8
 http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
