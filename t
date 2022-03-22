@@ -14,6 +14,7 @@ http://AllLiveSportsLinks.myftp.biz:80/hls/sonysix.m3u8
 http://alllivesportslinks.myftp.biz/hls/sonyten2.m3u8
 http://AllLiveSportsLinks.myftp.biz:80/hls/sonyten3.m3u8
 http://AllLiveSportsLinks.myftp.biz:80/hls/stersports1hd.m3u8
+http://alllivesportslinks.myftp.biz/hls/starsports2.m3u8
 http://AllLiveSportsLinks.myftp.biz:80/hls/Star_Sport_Select1HD.m3u8
 http://AllLiveSportsLinks.myftp.biz:80/hls/select2.m3u8
 http://AllLiveSportsLinks.myftp.biz:80/hls/euro.m3u8
