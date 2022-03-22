@@ -20,8 +20,8 @@ http://AllLiveSportsLinks.myftp.biz:80/hls/Star_Sport_Select1HD.m3u8
 http://AllLiveSportsLinks.myftp.biz:80/hls/select2.m3u8
 http://AllLiveSportsLinks.myftp.biz:80/hls/euro.m3u8
 #EXTINF:-1,Cartoon 
-http://alllivesportslinks.myftp.biz/hls/pogo.m3u8
 http://alllivesportslinks.myftp.biz/hls/cn.m3u8
+http://alllivesportslinks.myftp.biz/hls/pogo.m3u8
 http://alllivesportslinks.myftp.biz/hls/nick.m3u8
 http://alllivesportslinks.myftp.biz/hls/dis-kid.m3u8
 #EXTINF:-1,Wild
