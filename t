@@ -10,7 +10,8 @@ http://113.212.111.246:8080/hls/col12.m3u8
 http://113.212.111.246:8080/hls/col2.m3u8
 #EXTINF:-1,Sports
 http://AllLiveSportsLinks.myftp.biz:80/hls/sonyten1.m3u8
-Six http://AllLiveSportsLinks.myftp.biz:80/hls/sonysix.m3u8
+http://AllLiveSportsLinks.myftp.biz:80/hls/sonysix.m3u8
+http://alllivesportslinks.myftp.biz/hls/sonyten2.m3u8
 http://AllLiveSportsLinks.myftp.biz:80/hls/sonyten3.m3u8
 http://AllLiveSportsLinks.myftp.biz:80/hls/stersports1hd.m3u8
 http://AllLiveSportsLinks.myftp.biz:80/hls/Star_Sport_Select1HD.m3u8
