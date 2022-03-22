@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1, T Sports
 http://AllLiveSportsLinks.myftp.biz:80/hls/t-sports.m3u8
+http://alllivesportslinks.myftp.biz/hls/Gazi-TV.m3u8
 http://103.159.4.38:5868/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 http://208.86.19.21/905.stream/tracks-v1a1/mono.m3u8
