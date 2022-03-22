@@ -30,7 +30,7 @@ http://alllivesportslinks.myftp.biz/hls/wild.m3u8
 http://alllivesportslinks.myftp.biz/hls/discovery.m3u8
 http://alllivesportslinks.myftp.biz/hls/animalplanent.m3u8
 http://alllivesportslinks.myftp.biz/hls/bbcearth.m3u8
-
+http://alllivesportslinks.myftp.biz/hls/dis-science.m3u8
 
 http://103.159.4.38:8080/SPORTS-15/tracks-v1a1/mono.m3u8
 
