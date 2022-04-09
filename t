@@ -18,6 +18,15 @@ http://AllLiveSportsLinks.myftp.biz:80/hls/select2.m3u8
 http://alllivesportslinks.myftp.biz/hls/ten.m3u8
 http://alllivesportslinks.myftp.biz/hls/ptv.m3u8
 http://AllLiveSportsLinks.myftp.biz:80/hls/euro.m3u8
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/livetv/nayeemjioooxtv.php?c=Jio_Sports&q=400&e=.m3u8
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/livetv/nayeemjioooxtv.php?c=Dsports_HD&q=250&e=.m3u8
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/livetv/nayeemjioooxtv.php?c=Jio_Football_1&q=250&e=.m3u8
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/livetv/nayeemjioooxtv.php?c=Jio_Football_3&q=250&e=.m3u8
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/livetv/nayeemjioooxtv.php?c=Jio_Football_4&q=250&e=.m3u8
+http://172.17.50.112/live/antbd1006/index.m3u8
+http://172.17.50.112/live/antbd1008/index.m3u8
+http://172.17.50.112/live/antbd1007/index.m3u8
+http://172.17.50.112/live/antbd1005/index.m3u8
 #EXTINF:-1,Cartoon 
 http://alllivesportslinks.myftp.biz/hls/cn.m3u8
 http://alllivesportslinks.myftp.biz/hls/pogo.m3u8
