@@ -12,9 +12,13 @@ http://alllivesportslinks.myftp.org/hls/sonysix.m3u8
 http://alllivesportslinks.myftp.org/hls/ptv.m3u8
 http://alllivesportslinks.myftp.org/hls/ten.m3u8
 
+#EXTINF:-1, Cartoon 
+http://alllivesportslinks.myftp.org/hls/cn.m3u8
+http://alllivesportslinks.myftp.org/hls/nick.m3u8
+http://alllivesportslinks.myftp.org/hls/dis-kid.m3u8
+http://alllivesportslinks.myftp.org/hls/pogo.m3u8
 
-
-
+#EXTINF:-1,
 
 http://alllivesportslinks.myftp.org/hls/t-sports.m3u8
 http://alllivesportslinks.myftp.org/hls/ptv.m3u8
