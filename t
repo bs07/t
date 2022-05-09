@@ -1,17 +1,16 @@
 #EXTM3U
 #EXTINF:-1, Sports
+http://alllivesportslinks.myftp.org/hls/t-sports.m3u8
 http://alllivesportslinks.myftp.org/hls/ptv.m3u8
 http://alllivesportslinks.myftp.org/hls/ten.m3u8
 http://alllivesportslinks.myftp.org/hls/sonyten1.m3u8
-http://alllivesportslinks.myftp.org/hls/t-sports.m3u8
 http://alllivesportslinks.myftp.org/hls/sonyten2.m3u8
 http://alllivesportslinks.myftp.org/hls/select2.m3u8
 http://alllivesportslinks.myftp.org/hls/sonyten3.m3u8
 http://alllivesportslinks.myftp.org/hls/stersports1hd.m3u8
 http://alllivesportslinks.myftp.org/hls/starsports2.m3u8
-
 http://alllivesportslinks.myftp.org/hls/Star_Sport_Select1HD.m3u8
-http://alllivesportslinks.myftp.org/hls/sonyten1.m3u8
+
 http://alllivesportslinks.myftp.org/hls/Sony_Aath.m3u8
 http://alllivesportslinks.myftp.org/hls/channeli.m3u8
 http://alllivesportslinks.myftp.org/hls/colorsbangla.m3u8
