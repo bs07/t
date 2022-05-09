@@ -35,13 +35,41 @@ http://alllivesportslinks.myftp.org/hls/travelxp.m3u8
 http://alllivesportslinks.myftp.org/hls/somoy.m3u8
 http://alllivesportslinks.myftp.org/hls/masranga.m3u8
 
-#EXTINF:-1, Wild
+#EXTINF:-1, Wild Science 
 http://alllivesportslinks.myftp.org/hls/discovery.m3u8
 http://alllivesportslinks.myftp.org/hls/ngohd.m3u8
 http://alllivesportslinks.myftp.org/hls/bbcearth.m3u8
 http://alllivesportslinks.myftp.org/hls/animalplanent.m3u8
 http://alllivesportslinks.myftp.org/hls/tlc.m3u8
 http://alllivesportslinks.myftp.org/hls/wild.m3u8
+http://alllivesportslinks.myftp.org/hls/dis-science.m3u8
+
+#EXTINF:-1, Hindi
+http://alllivesportslinks.myftp.org/hls/stargold2hd.m3u8
+http://alllivesportslinks.myftp.org/hls/sony-maxhd.m3u8
+http://alllivesportslinks.myftp.org/hls/andpictures.m3u8
+http://alllivesportslinks.myftp.org/hls/zeecinemahd.m3u8
+http://alllivesportslinks.myftp.org/hls/utvaction.m3u8
+http://alllivesportslinks.myftp.org/hls/starplus.m3u8
+http://alllivesportslinks.myftp.org/hls/sonyen.m3u8
+http://alllivesportslinks.myftp.org/hls/colore-tv-hd.m3u8
+http://alllivesportslinks.myftp.org/hls/zeetv.m3u8
+http://alllivesportslinks.myftp.org/hls/colorscineplex.m3u8
+http://alllivesportslinks.myftp.org/hls/stargold.m3u8
+http://alllivesportslinks.myftp.org/hls/zoom.m3u8
+http://alllivesportslinks.myftp.org/hls/9xm.m3u8
+http://alllivesportslinks.myftp.org/hls/dhin.m3u8
+http://alllivesportslinks.myftp.org/hls/bindass.m3u8
+
+#EXTINF:-1, English 
+http://alllivesportslinks.myftp.org/hls/mnx-hd.m3u8
+http://alllivesportslinks.myftp.org/hls/star-worldhd.m3u8
+http://alllivesportslinks.myftp.org/hls/mn+.m3u8
+http://alllivesportslinks.myftp.org/hls/sonypixhd.m3u8
+http://alllivesportslinks.myftp.org/hls/movies-now.m3u8
+http://alllivesportslinks.myftp.org/hls/starmovies.m3u8
+http://alllivesportslinks.myftp.org/hls/aljazeera.m3u8
+http://alllivesportslinks.myftp.org/hls/bbcworld.m3u8
 
 #EXTINF:-1, Others
 http://172.17.50.112/live/antbd1008/index.m3u8
