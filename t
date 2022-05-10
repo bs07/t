@@ -12,6 +12,15 @@ http://alllivesportslinks.myftp.org/hls/sonysix.m3u8
 http://alllivesportslinks.myftp.org/hls/ptv.m3u8
 http://alllivesportslinks.myftp.org/hls/ten.m3u8
 
+#EXTINF:-1, Wild Science 
+http://alllivesportslinks.myftp.org/hls/discovery.m3u8
+http://alllivesportslinks.myftp.org/hls/ngohd.m3u8
+http://alllivesportslinks.myftp.org/hls/bbcearth.m3u8
+http://alllivesportslinks.myftp.org/hls/animalplanent.m3u8
+http://alllivesportslinks.myftp.org/hls/tlc.m3u8
+http://alllivesportslinks.myftp.org/hls/wild.m3u8
+http://alllivesportslinks.myftp.org/hls/dis-science.m3u8
+
 #EXTINF:-1, Cartoon 
 http://alllivesportslinks.myftp.org/hls/cn.m3u8
 http://alllivesportslinks.myftp.org/hls/nick.m3u8
@@ -34,15 +43,6 @@ http://alllivesportslinks.myftp.org/hls/indepen.m3u8
 http://alllivesportslinks.myftp.org/hls/travelxp.m3u8
 http://alllivesportslinks.myftp.org/hls/somoy.m3u8
 http://alllivesportslinks.myftp.org/hls/masranga.m3u8
-
-#EXTINF:-1, Wild Science 
-http://alllivesportslinks.myftp.org/hls/discovery.m3u8
-http://alllivesportslinks.myftp.org/hls/ngohd.m3u8
-http://alllivesportslinks.myftp.org/hls/bbcearth.m3u8
-http://alllivesportslinks.myftp.org/hls/animalplanent.m3u8
-http://alllivesportslinks.myftp.org/hls/tlc.m3u8
-http://alllivesportslinks.myftp.org/hls/wild.m3u8
-http://alllivesportslinks.myftp.org/hls/dis-science.m3u8
 
 #EXTINF:-1, Hindi
 http://alllivesportslinks.myftp.org/hls/stargold2hd.m3u8
@@ -112,4 +112,6 @@ https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-zio
 https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=891&q=600
 https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=892&q=600
 https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1772&q=600
+
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=875&q=600
 
