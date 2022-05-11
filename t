@@ -11,6 +11,15 @@ http://alllivesportslinks.myftp.org/hls/Star_Sport_Select1HD.m3u8
 http://alllivesportslinks.myftp.org/hls/sonysix.m3u8
 http://alllivesportslinks.myftp.org/hls/ptv.m3u8
 http://alllivesportslinks.myftp.org/hls/ten.m3u8
+http://103.124.110.34:8082/SKY-SPORTS-CRICKET/index.m3u8
+http://103.124.110.34:8082/SKY-SPORTS-FOOTBALL/index.m3u8
+http://103.124.110.34:8082/SUPERSPORT-CRICKET/index.m3u8
+http://103.124.110.34:8082/WILLOW-CRICKET-HD/index.m3u8
+http://103.124.110.34:8082/tsp/index.m3u8
+http://103.136.200.246:8082/SonySix/index.m3u8
+http://103.136.200.246:8082/Ten1/index.m3u8
+http://103.136.200.246:8082/Ten2/index.m3u8
+http://103.136.200.246:8082/Ten3/index.m3u8
 
 
 #EXTINF:-1, Wild Science 
@@ -21,11 +30,7 @@ http://alllivesportslinks.myftp.org/hls/animalplanent.m3u8
 http://alllivesportslinks.myftp.org/hls/tlc.m3u8
 http://alllivesportslinks.myftp.org/hls/wild.m3u8
 http://alllivesportslinks.myftp.org/hls/dis-science.m3u8
-http://103.124.110.34:8082/SKY-SPORTS-CRICKET/index.m3u8
-http://103.124.110.34:8082/SKY-SPORTS-FOOTBALL/index.m3u8
-http://103.124.110.34:8082/SUPERSPORT-CRICKET/index.m3u8
-http://103.124.110.34:8082/WILLOW-CRICKET-HD/index.m3u8
-http://103.124.110.34:8082/tsp/index.m3u8
+
 
 
 #EXTINF:-1, Cartoon 
