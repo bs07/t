@@ -12,6 +12,7 @@ http://alllivesportslinks.myftp.org/hls/sonysix.m3u8
 http://alllivesportslinks.myftp.org/hls/ptv.m3u8
 http://alllivesportslinks.myftp.org/hls/ten.m3u8
 
+
 #EXTINF:-1, Wild Science 
 http://alllivesportslinks.myftp.org/hls/discovery.m3u8
 http://alllivesportslinks.myftp.org/hls/ngohd.m3u8
@@ -20,6 +21,12 @@ http://alllivesportslinks.myftp.org/hls/animalplanent.m3u8
 http://alllivesportslinks.myftp.org/hls/tlc.m3u8
 http://alllivesportslinks.myftp.org/hls/wild.m3u8
 http://alllivesportslinks.myftp.org/hls/dis-science.m3u8
+http://103.124.110.34:8082/SKY-SPORTS-CRICKET/index.m3u8
+http://103.124.110.34:8082/SKY-SPORTS-FOOTBALL/index.m3u8
+http://103.124.110.34:8082/SUPERSPORT-CRICKET/index.m3u8
+http://103.124.110.34:8082/WILLOW-CRICKET-HD/index.m3u8
+http://103.124.110.34:8082/tsp/index.m3u8
+
 
 #EXTINF:-1, Cartoon 
 http://alllivesportslinks.myftp.org/hls/cn.m3u8
