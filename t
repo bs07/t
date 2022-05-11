@@ -16,7 +16,7 @@ http://103.124.110.34:8082/SKY-SPORTS-FOOTBALL/index.m3u8
 http://103.124.110.34:8082/SUPERSPORT-CRICKET/index.m3u8
 http://103.124.110.34:8082/WILLOW-CRICKET-HD/index.m3u8
 
-EXTINF:-1, jio sports
+#EXTINF:-1, jio sports
 https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=889&q=600
 https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1889&q=600
 https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1890&q=600
