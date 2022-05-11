@@ -40,6 +40,30 @@ http://alllivesportslinks.myftp.org/hls/dis-kid.m3u8
 http://alllivesportslinks.myftp.org/hls/pogo.m3u8
 
 #EXTINF:-1, Bangla
+http://103.136.200.246:8082/Gazi-Tv/index.m3u8
+http://103.136.200.246:8082/ATN-Bangla/index.m3u8
+http://103.136.200.246:8082/Somoy-TV/index.m3u8
+http://103.136.200.246:8082/Ekattor-tv/index.m3u8
+http://103.136.200.246:8082/Atn-News/index.m3u8
+http://103.136.200.246:8082/Independent-Tv/index.m3u8
+http://103.136.200.246:8082/News24bd/index.m3u8
+http://103.136.200.246:8082/Channel24/index.m3u8
+http://103.136.200.246:8082/DBC-NEWS/index.m3u8
+http://103.136.200.246:8082/Channel-i/index.m3u8
+http://103.136.200.246:8082/Ekushey-TV/index.m3u8
+http://103.136.200.246:8082/Ntv/index.m3u8
+http://103.136.200.246:8082/RTV/index.m3u8
+http://103.136.200.246:8082/SATV/index.m3u8
+http://103.136.200.246:8082/BanglaVision/index.m3u8
+http://103.136.200.246:8082/MohonaTV/index.m3u8
+http://103.136.200.246:8082/MyTV/index.m3u8
+http://103.136.200.246:8082/anandotv/index.m3u8
+http://103.136.200.246:8082/Nagorik-TV/index.m3u8
+http://103.136.200.246:8082/BijoyTv/index.m3u8
+http://103.136.200.246:8082/Boishakhi/index.m3u8
+http://103.136.200.246:8082/GaanBangla/index.m3u8
+
+
 http://alllivesportslinks.myftp.org/hls/channeli.m3u8
 http://alllivesportslinks.myftp.org/hls/zee-bangla-cinema.m3u8
 http://alllivesportslinks.myftp.org/hls/colorsbangla.m3u8
