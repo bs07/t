@@ -15,6 +15,35 @@ http://103.124.110.34:8082/SKY-SPORTS-CRICKET/index.m3u8
 http://103.124.110.34:8082/SKY-SPORTS-FOOTBALL/index.m3u8
 http://103.124.110.34:8082/SUPERSPORT-CRICKET/index.m3u8
 http://103.124.110.34:8082/WILLOW-CRICKET-HD/index.m3u8
+
+EXTINF:-1, jio sports
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=889&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1889&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1890&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1970&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1971&q=600
+#EXTINF:-1, sports 
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1984&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1425&q=600
+#EXTINF:-1, jio football
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1156&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1165&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1167&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1168&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1169&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1813&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1814&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1823&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1824&q=600
+#EXTINF:-1, sony sports
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=155&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=162&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=891&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=892&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1772&q=600
+
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=875&q=600
+
 http://103.124.110.34:8082/tsp/index.m3u8
 http://103.136.200.246:8082/SonySix/index.m3u8
 http://103.136.200.246:8082/Ten1/index.m3u8
@@ -62,6 +91,14 @@ http://103.136.200.246:8082/Nagorik-TV/index.m3u8
 http://103.136.200.246:8082/BijoyTv/index.m3u8
 http://103.136.200.246:8082/Boishakhi/index.m3u8
 http://103.136.200.246:8082/GaanBangla/index.m3u8
+http://103.136.200.246:8082/Sonyaath/index.m3u8
+http://103.136.200.246:8082/Star-Jalsha/index.m3u8
+http://89.187.162.109/STARJALSHA/mono.m3u8
+http://103.136.200.246:8082/ZeeBanglaHD/index.m3u8
+http://103.136.200.246:8082/colorsbangla/index.m3u8
+http://89.187.178.133:9066/SUN_BANGLA/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/Jalshamovies/index.m3u8
+
 
 
 http://alllivesportslinks.myftp.org/hls/channeli.m3u8
@@ -96,6 +133,12 @@ http://alllivesportslinks.myftp.org/hls/zoom.m3u8
 http://alllivesportslinks.myftp.org/hls/9xm.m3u8
 http://alllivesportslinks.myftp.org/hls/dhin.m3u8
 http://alllivesportslinks.myftp.org/hls/bindass.m3u8
+http://103.136.200.246:8082/Sony-Max/index.m3u8
+http://103.136.200.246:8082/StarGold/index.m3u8
+http://89.187.162.109/ANDTVHD/mono.m3u8
+http://103.136.200.246:8082/ZeeCinemaHD/index.m3u8
+http://103.136.200.246:8082/SonyPix/index.m3u8
+http://103.136.200.246:8082/colorsindia/index.m3u8
 
 #EXTINF:-1, English 
 http://alllivesportslinks.myftp.org/hls/mnx-hd.m3u8
@@ -124,32 +167,3 @@ http://103.159.4.38:8080/SPORTS-15/tracks-v1a1/mono.m3u8
 http://103.159.4.38:5868/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 http://208.86.19.21/905.stream/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, jio sports
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=889&q=600
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1889&q=600
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1890&q=600
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1970&q=600
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1971&q=600
-#EXTINF:-1, sports 
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1984&q=600
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1425&q=600
-#EXTINF:-1, jio football
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1156&q=600
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1165&q=600
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1167&q=600
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1168&q=600
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1169&q=600
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1813&q=600
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1814&q=600
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1823&q=600
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1824&q=600
-#EXTINF:-1, sony sports
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=155&q=600
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=162&q=600
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=891&q=600
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=892&q=600
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1772&q=600
-
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=875&q=600
-
