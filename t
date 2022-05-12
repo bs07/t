@@ -1,48 +1,48 @@
 #EXTM3U
 #EXTINF:-1, Sports
-http://alllivesportslinks.myftp.org/hls/t-sports.m3u8
-http://alllivesportslinks.myftp.org/hls/sonyten1.m3u8
-http://alllivesportslinks.myftp.org/hls/starsports2.m3u8
-http://alllivesportslinks.myftp.org/hls/sonyten3.m3u8
-http://alllivesportslinks.myftp.org/hls/sonyten2.m3u8
-http://alllivesportslinks.myftp.org/hls/select2.m3u8
-http://alllivesportslinks.myftp.org/hls/stersports1hd.m3u8
-http://alllivesportslinks.myftp.org/hls/Star_Sport_Select1HD.m3u8
-http://alllivesportslinks.myftp.org/hls/sonysix.m3u8
-http://alllivesportslinks.myftp.org/hls/ptv.m3u8
-http://alllivesportslinks.myftp.org/hls/ten.m3u8
+http://103.55.144.46/hls/t-sports.m3u8
+http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
+http://103.55.144.46/hls/stersports1hd.m3u8
+http://103.55.144.46/hls/select2.m3u8
+http://103.55.144.46/hls/starsports2.m3u8
+http://103.55.144.46/hls/sonysix.m3u8
+http://103.55.144.46/hls/sonyten1.m3u8
+http://103.55.144.46/hls/sonyten2.m3u8
+http://103.55.144.46/hls/ptv.m3u8
+http://103.55.144.46/hls/sonyten3.m3u8
+http://103.55.144.46/hls/ten.m3u8
 http://103.124.110.34:8082/SKY-SPORTS-CRICKET/index.m3u8
 http://103.124.110.34:8082/SKY-SPORTS-FOOTBALL/index.m3u8
 http://103.124.110.34:8082/SUPERSPORT-CRICKET/index.m3u8
 http://103.124.110.34:8082/WILLOW-CRICKET-HD/index.m3u8
 
 #EXTINF:-1, jio sports
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=889&q=600
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1889&q=600
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1890&q=600
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1970&q=600
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1971&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox98.php?id=889&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox98.php?id=1889&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox98.php?id=1890&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox98.php?id=1970&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox98.php?id=1971&q=600
 #EXTINF:-1, sports 
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1984&q=600
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1425&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox98.php?id=1984&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox98.php?id=1425&q=600
 #EXTINF:-1, jio football
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1156&q=600
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1165&q=600
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1167&q=600
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1168&q=600
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1169&q=600
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1813&q=600
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1814&q=600
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1823&q=600
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1824&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox98.php?id=1156&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox98.php?id=1165&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox98.php?id=1167&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox98.php?id=1168&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox98.php?id=1169&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox98.php?id=1813&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox98.php?id=1814&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox98.php?id=1823&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox98.php?id=1824&q=600
 #EXTINF:-1, sony sports
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=155&q=600
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=162&q=600
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=891&q=600
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=892&q=600
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=1772&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox98.php?id=155&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox98.php?id=162&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox98.php?id=891&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox98.php?id=892&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox98.php?id=1772&q=600
 
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox0.php?id=875&q=600
+https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox98.php?id=875&q=600
 
 http://103.124.110.34:8082/tsp/index.m3u8
 http://103.136.200.246:8082/SonySix/index.m3u8
@@ -52,13 +52,9 @@ http://103.136.200.246:8082/Ten3/index.m3u8
 
 
 #EXTINF:-1, Wild Science 
-http://alllivesportslinks.myftp.org/hls/discovery.m3u8
-http://alllivesportslinks.myftp.org/hls/ngohd.m3u8
-http://alllivesportslinks.myftp.org/hls/bbcearth.m3u8
-http://alllivesportslinks.myftp.org/hls/animalplanent.m3u8
-http://alllivesportslinks.myftp.org/hls/tlc.m3u8
-http://alllivesportslinks.myftp.org/hls/wild.m3u8
-http://alllivesportslinks.myftp.org/hls/dis-science.m3u8
+http://103.55.144.46/hls/ngohd.m3u8
+http://103.55.144.46/hls/discovery.m3u8
+http://103.55.144.46/hls/animalplanent.m3u8
 
 
 
