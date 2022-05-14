@@ -159,3 +159,4 @@ http://103.159.4.38:8080/SPORTS-15/tracks-v1a1/mono.m3u8
 http://103.159.4.38:5868/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 http://208.86.19.21/905.stream/tracks-v1a1/mono.m3u8
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06V2/master.m3u8?hdnea=st=1652547833~exp=1652548133~acl=*~id=5744c06d-d41a-4c33-88d0-38d0b06342a4~hmac=7128a11b1031568b6b089b9d6a69ed6e3c5fc6c358712c094fe13fc9d2a8ab94&originpath=/linear/hls/pb/event/5qTBYna8R8SzYpzFGIngag/stream/89304cfe-c32e-4427-b602-af57ea425189:SIN/master.m3u8
