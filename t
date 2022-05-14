@@ -11,10 +11,6 @@ http://103.55.144.46/hls/sonyten2.m3u8
 http://103.55.144.46/hls/ptv.m3u8
 http://103.55.144.46/hls/sonyten3.m3u8
 http://103.55.144.46/hls/ten.m3u8
-http://103.124.110.34:8082/SKY-SPORTS-CRICKET/index.m3u8
-http://103.124.110.34:8082/SKY-SPORTS-FOOTBALL/index.m3u8
-http://103.124.110.34:8082/SUPERSPORT-CRICKET/index.m3u8
-http://103.124.110.34:8082/WILLOW-CRICKET-HD/index.m3u8
 
 #EXTINF:-1, jio sports
 https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/jioplus/nayeem-ziox68.php?id=889&q=600
