@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1, Sports
 http://103.55.144.46/hls/t-sports.m3u8
+https://cdn.rangdhanu.live/TSportsHD/video.m3u8
 http://103.124.110.34:8082/tsp/index.m3u8
 http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
 http://103.55.144.46/hls/stersports1hd.m3u8
@@ -12,12 +13,14 @@ http://103.55.144.46/hls/sonyten2.m3u8
 http://103.55.144.46/hls/ptv.m3u8
 http://103.55.144.46/hls/sonyten3.m3u8
 http://103.55.144.46/hls/ten.m3u8
+https://cdn.rangdhanu.live/StarSportsSelect1/video.m3u8
+https://cdn.rangdhanu.live/SonySix/video.m3u8
+https://cdn.rangdhanu.live/SonyTen3/video.m3u8
+https://cdn.rangdhanu.live/SonyTen2/video.m3u8
+https://cdn.rangdhanu.live/SonyTen1/video.m3u8
+https://cdn.rangdhanu.live/SonySix/video.m3u8
 
 
-http://103.136.200.246:8082/SonySix/index.m3u8
-http://103.136.200.246:8082/Ten1/index.m3u8
-http://103.136.200.246:8082/Ten2/index.m3u8
-http://103.136.200.246:8082/Ten3/index.m3u8
 
 
 #EXTINF:-1, Wild Science 
@@ -28,92 +31,14 @@ http://103.55.144.46/hls/animalplanent.m3u8
 
 
 #EXTINF:-1, Cartoon 
-http://alllivesportslinks.myftp.org/hls/cn.m3u8
-http://alllivesportslinks.myftp.org/hls/nick.m3u8
-http://alllivesportslinks.myftp.org/hls/dis-kid.m3u8
-http://alllivesportslinks.myftp.org/hls/pogo.m3u8
+
 
 #EXTINF:-1, Bangla
-http://103.136.200.246:8082/Gazi-Tv/index.m3u8
-http://103.136.200.246:8082/ATN-Bangla/index.m3u8
-http://103.136.200.246:8082/Somoy-TV/index.m3u8
-http://103.136.200.246:8082/Ekattor-tv/index.m3u8
-http://103.136.200.246:8082/Atn-News/index.m3u8
-http://103.136.200.246:8082/Independent-Tv/index.m3u8
-http://103.136.200.246:8082/News24bd/index.m3u8
-http://103.136.200.246:8082/Channel24/index.m3u8
-http://103.136.200.246:8082/DBC-NEWS/index.m3u8
-http://103.136.200.246:8082/Channel-i/index.m3u8
-http://103.136.200.246:8082/Ekushey-TV/index.m3u8
-http://103.136.200.246:8082/Ntv/index.m3u8
-http://103.136.200.246:8082/RTV/index.m3u8
-http://103.136.200.246:8082/SATV/index.m3u8
-http://103.136.200.246:8082/BanglaVision/index.m3u8
-http://103.136.200.246:8082/MohonaTV/index.m3u8
-http://103.136.200.246:8082/MyTV/index.m3u8
-http://103.136.200.246:8082/anandotv/index.m3u8
-http://103.136.200.246:8082/Nagorik-TV/index.m3u8
-http://103.136.200.246:8082/BijoyTv/index.m3u8
-http://103.136.200.246:8082/Boishakhi/index.m3u8
-http://103.136.200.246:8082/GaanBangla/index.m3u8
-http://103.136.200.246:8082/Sonyaath/index.m3u8
-http://103.136.200.246:8082/Star-Jalsha/index.m3u8
-http://89.187.162.109/STARJALSHA/mono.m3u8
-http://103.136.200.246:8082/ZeeBanglaHD/index.m3u8
-http://103.136.200.246:8082/colorsbangla/index.m3u8
-http://89.187.178.133:9066/SUN_BANGLA/tracks-v1a1/mono.m3u8
-http://103.136.200.246:8082/Jalshamovies/index.m3u8
-
-
-
-http://alllivesportslinks.myftp.org/hls/channeli.m3u8
-http://alllivesportslinks.myftp.org/hls/zee-bangla-cinema.m3u8
-http://alllivesportslinks.myftp.org/hls/colorsbangla.m3u8
-http://alllivesportslinks.myftp.org/hls/sunbangla.m3u8
-http://alllivesportslinks.myftp.org/hls/Gazi-TV.m3u8
-http://alllivesportslinks.myftp.org/hls/Sony_Aath.m3u8
-http://alllivesportslinks.myftp.org/hls/starjalsha.m3u8
-http://alllivesportslinks.myftp.org/hls/colore-bangla-cinema.m3u8
-http://alllivesportslinks.myftp.org/hls/zeebanglahd.m3u8
-http://alllivesportslinks.myftp.org/hls/jalshamovies.m3u8
-http://alllivesportslinks.myftp.org/hls/nexus.m3u8
-http://alllivesportslinks.myftp.org/hls/indepen.m3u8
-http://alllivesportslinks.myftp.org/hls/travelxp.m3u8
-http://alllivesportslinks.myftp.org/hls/somoy.m3u8
-http://alllivesportslinks.myftp.org/hls/masranga.m3u8
 
 #EXTINF:-1, Hindi
-http://alllivesportslinks.myftp.org/hls/stargold2hd.m3u8
-http://alllivesportslinks.myftp.org/hls/sony-maxhd.m3u8
-http://alllivesportslinks.myftp.org/hls/andpictures.m3u8
-http://alllivesportslinks.myftp.org/hls/zeecinemahd.m3u8
-http://alllivesportslinks.myftp.org/hls/utvaction.m3u8
-http://alllivesportslinks.myftp.org/hls/starplus.m3u8
-http://alllivesportslinks.myftp.org/hls/sonyen.m3u8
-http://alllivesportslinks.myftp.org/hls/colore-tv-hd.m3u8
-http://alllivesportslinks.myftp.org/hls/zeetv.m3u8
-http://alllivesportslinks.myftp.org/hls/colorscineplex.m3u8
-http://alllivesportslinks.myftp.org/hls/stargold.m3u8
-http://alllivesportslinks.myftp.org/hls/zoom.m3u8
-http://alllivesportslinks.myftp.org/hls/9xm.m3u8
-http://alllivesportslinks.myftp.org/hls/dhin.m3u8
-http://alllivesportslinks.myftp.org/hls/bindass.m3u8
-http://103.136.200.246:8082/Sony-Max/index.m3u8
-http://103.136.200.246:8082/StarGold/index.m3u8
-http://89.187.162.109/ANDTVHD/mono.m3u8
-http://103.136.200.246:8082/ZeeCinemaHD/index.m3u8
-http://103.136.200.246:8082/SonyPix/index.m3u8
-http://103.136.200.246:8082/colorsindia/index.m3u8
+
 
 #EXTINF:-1, English 
-http://alllivesportslinks.myftp.org/hls/mnx-hd.m3u8
-http://alllivesportslinks.myftp.org/hls/star-worldhd.m3u8
-http://alllivesportslinks.myftp.org/hls/mn+.m3u8
-http://alllivesportslinks.myftp.org/hls/sonypixhd.m3u8
-http://alllivesportslinks.myftp.org/hls/movies-now.m3u8
-http://alllivesportslinks.myftp.org/hls/starmovies.m3u8
-http://alllivesportslinks.myftp.org/hls/aljazeera.m3u8
-http://alllivesportslinks.myftp.org/hls/bbcworld.m3u8
 
 #EXTINF:-1, Others
 http://172.17.50.112/live/antbd1008/index.m3u8
@@ -134,6 +59,7 @@ http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 http://208.86.19.21/905.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Alif
+http://103.136.200.246:8082/Independent-Tv/index.m3u8
 http://tvserver.aliflailabd.com:8989/star-sports-select1/index.m3u8
 http://tvserver.aliflailabd.com:8989/star-sports1/index.m3u8
 http://tvserver.aliflailabd.com:8989/sony-ten1-hd/index.m3u8
