@@ -29,12 +29,25 @@ http://103.55.144.46/hls/ngohd.m3u8
 http://103.55.144.46/hls/discovery.m3u8
 http://103.55.144.46/hls/animalplanent.m3u8
 
-
-
-#EXTINF:-1, Cartoon 
-
+#EXTINF:-1, Islamic
+http://103.55.144.46/hls/madani.m3u8
+http://103.55.144.46/hls/qurqntv.m3u8
 
 #EXTINF:-1, Bangla
+http://103.55.144.46/hls/indepen.m3u8
+http://103.55.144.46/hls/Gazi-TV.m3u8
+http://103.55.144.46/hls/somoy.m3u8
+http://103.55.144.46/hls/channeli.m3u8
+http://103.55.144.46/hls/masranga.m3u8
+http://103.55.144.46/hls/zee-bangla-cinema.m3u8
+http://103.55.144.46/hls/colore-bangla-cinema.m3u8
+http://103.55.144.46/hls/jalshamovies.m3u8
+http://103.55.144.46/hls/colorsbangla.m3u8
+http://103.55.144.46/hls/zeebanglahd.m3u8
+http://103.55.144.46/hls/starjalsha.m3u8
+http://103.55.144.46/hls/Sony_Aath.m3u8
+http://103.55.144.46/hls/sunbangla.m3u8
+http://103.55.144.46/hls/travelxp.m3u8
 
 #EXTINF:-1, Hindi
 
