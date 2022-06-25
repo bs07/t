@@ -19,8 +19,6 @@ https://cdn.rangdhanu.live/SonySix/video.m3u8
 https://cdn.rangdhanu.live/SonyTen3/video.m3u8
 https://cdn.rangdhanu.live/SonyTen2/video.m3u8
 https://cdn.rangdhanu.live/SonyTen1/video.m3u8
-https://cdn.rangdhanu.live/SonySix/video.m3u8
-
 
 
 
@@ -39,6 +37,10 @@ http://103.55.144.46/hls/Gazi-TV.m3u8
 http://103.55.144.46/hls/somoy.m3u8
 http://103.55.144.46/hls/channeli.m3u8
 http://103.55.144.46/hls/masranga.m3u8
+https://cdn.rangdhanu.live/SomoyTv/video.m3u8
+https://cdn.rangdhanu.live/ChannelI/video.m3u8
+https://cdn.rangdhanu.live/News24/video.m3u8
+https://cdn.rangdhanu.live/Channel24/video.m3u8
 http://103.55.144.46/hls/zee-bangla-cinema.m3u8
 http://103.55.144.46/hls/colore-bangla-cinema.m3u8
 http://103.55.144.46/hls/jalshamovies.m3u8
