@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, Sports
 http://103.55.144.46/hls/t-sports.m3u8
+http://nayeemparvez-hp.zapto.org/tv.m3u8
+https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 http://stream.accessnetbd.com/hls/sky12.m3u8
 https://cdn.rangdhanu.live/TSportsHD/video.m3u8
 http://103.124.110.34:8082/tsp/index.m3u8
